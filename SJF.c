@@ -1,4 +1,5 @@
 #include <stdio.h>
+const int INT_MAX = 2147483647;
 
 struct Process {
     int pid;

@@ -56,24 +56,24 @@ int main() {
 
 
 
-Output: 
-Enter the number of processes: 3
+// Output: 
+// Enter the number of processes: 3
 
-Enter the arrival time and burst time for each process:
-Process 1:
-Arrival Time: 0
-Burst Time: 5
-Process 2:
-Arrival Time: 1
-Burst Time: 3
-Process 3:
-Arrival Time: 2
-Burst Time: 6
+// Enter the arrival time and burst time for each process:
+// Process 1:
+// Arrival Time: 0
+// Burst Time: 5
+// Process 2:
+// Arrival Time: 1
+// Burst Time: 3
+// Process 3:
+// Arrival Time: 2
+// Burst Time: 6
 
-Process	Arrival Time	Burst Time	Waiting Time	Turnaround Time
-1       0           5           0           5
-2       1           3           5           8
-3       2           6           8           14
+// Process	Arrival Time	Burst Time	Waiting Time	Turnaround Time
+// 1       0           5           0           5
+// 2       1           3           5           8
+// 3       2           6           8           14
 
-Average Waiting Time: 4.33
-Average Turnaround Time: 9.00
+// Average Waiting Time: 4.33
+// Average Turnaround Time: 9.00

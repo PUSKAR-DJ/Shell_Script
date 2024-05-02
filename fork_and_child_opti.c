@@ -28,7 +28,7 @@ else if (pid == 0)
         printf("Process ID: %d\n", getpid());
         printf("Parent Process ID: %d\n", getppid());
     }
-    getch ();
+    getchar ();
     return 0;
 }
 

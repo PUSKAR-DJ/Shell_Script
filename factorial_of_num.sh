@@ -1,6 +1,6 @@
 #!/bin/bash
 # Define a function to calculate factorial recursively
-calculate_factorial() {if [ $1 -eq 0 ]; then
+calculate_factorial() { if [ $1 -eq 0 ]; then
 echo 1
 else
 local sub_factorial

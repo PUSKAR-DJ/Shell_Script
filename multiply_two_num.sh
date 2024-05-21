@@ -9,7 +9,7 @@ echo "Enter the second number:"
 read num2
 
 # Multiply the two numbers 
-result=$num1 * $num2
+result= $(($num1 * $num2))
 
 # Display the result
 echo "The result of multiplying $num1 and $num2 is: $result"
